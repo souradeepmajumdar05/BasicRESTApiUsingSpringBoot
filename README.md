@@ -3,19 +3,6 @@ This repository introduces with the basic understanding of building various REST
 
 Pre-requisite: java and maven
 
-Directory structure inside: ../basic/
-
-E:.
-
-src
-├───main
-│   ├───java
-│   │   └───basic
-│   └───resources
-└───test
-    └───java
-        └───basic
-
 		
 Note: This application runs on a non default port 6060 . Value is set in 
 	  ../basic/src/main/resources/application.properties
