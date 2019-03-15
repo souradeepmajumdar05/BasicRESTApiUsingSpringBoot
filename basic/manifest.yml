@@ -1,0 +1,9 @@
+---
+applications:
+- name: basic-rest-service
+  memory: 256M
+  instances: 1
+  host: rest-service
+  domain: my.personal.api
+  path: build/libs/basic-rest-service-0.1.0.jar
+  port: 9090
